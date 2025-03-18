@@ -67,13 +67,14 @@ img {
 
     width: 16px;
 
-    @media screen and (max-width: 600px) {
+
+}
+
+@media screen and (max-width: 600px) {
     .card {
         padding: 20px 10px;
         margin: 20px auto 0;
     }
-    }
-
 }
 
 .weather-icon {
@@ -120,4 +121,3 @@ img {
 .weather {
     display: none;
 }
-
