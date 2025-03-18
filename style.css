@@ -72,6 +72,7 @@ img {
         padding: 20px 10px;
         margin: 20px auto 0;
     }
+    }
 
 }
 
@@ -119,4 +120,4 @@ img {
 .weather {
     display: none;
 }
-}
+
