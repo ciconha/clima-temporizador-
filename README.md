@@ -17,6 +17,8 @@
 | **Frontend** | Interface criada com html, css e java-script |
 | **API** | utilizei o open weather para peguar todas as infomações de clima para conctar a minha plataforma |
 
+
+
 ---
 
 ## 🛠️ Tecnologias Utilizadas
@@ -32,4 +34,6 @@
 - ⚙️ **Git & GitHub**: Controle de versão e colaboração.  
 
 ---
+
+[link do repositório] [https://clima-temporizador.vercel.app/]
 
